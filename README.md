@@ -17,7 +17,7 @@ This app allows users to input grade points for three subjects and calculates th
 ---
 
 ## 📸 Screenshots  
-(Add your screenshots here after uploading images in `assets/` folder)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66fa3df1-0e5c-4052-a830-edff7a500dea" />
 
 ---
 
