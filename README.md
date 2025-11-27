@@ -9,8 +9,7 @@ This app allows users to input grade points for three subjects and calculates th
 
 - ✔ Enter grade points for 3 subjects  
 - ✔ Validates empty inputs  
-- ✔ Calculates CGPA using the formula:  
-  **CGPA = (Sub1 + Sub2 + Sub3) / 3**
+- ✔ Calculates CGPA 
 - ✔ Clean and minimal UI  
 - ✔ Built using Kotlin + XML  
 
